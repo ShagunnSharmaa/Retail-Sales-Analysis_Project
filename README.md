@@ -1,1 +1,1 @@
-Retail Sales Analysis_Project 
+Captured demographic data and revenue patterns to support business strategy.
